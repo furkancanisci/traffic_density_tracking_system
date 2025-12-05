@@ -113,7 +113,3 @@ Uygulama çalıştığında **4 panelli bir arayüz** sunar:
 2.  **Sağ Üst:** MOG2 Maskesi (Arka plan çıkarılmış ham görüntü, gölgeler dahil).
 3.  **Sol Alt:** Temizlenmiş Maske (Threshold ve Morfolojik işlemler sonrası).
 4.  **Sağ Alt:** Tespit (Bounding Box) ve Sayım sonucu.
-
-## 📝 Lisans
-
-Bu proje eğitim amaçlı hazırlanmıştır. Açık kaynak kodludur.
